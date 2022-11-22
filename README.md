@@ -1,1 +1,1 @@
-# juno
+# study for python and SQL
